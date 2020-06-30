@@ -1,2 +1,4 @@
 # gesture-recognition-project
-This project, lets the user to replace mouse usage, by using hand motions, infront of the web cam.
+This project lets the user replace mouse usage with hand motions in front of the web cam.
+
+
